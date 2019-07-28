@@ -288,8 +288,12 @@ hr {
 
 #profile .row>div img {
     width: 100%;
-    max-width: 246px;
+    max-width: 129px;
     height: auto;
+}
+
+.carousel-inner>.item>img {
+    max-height: 600px;
 }
 
 #experiences .experience {
