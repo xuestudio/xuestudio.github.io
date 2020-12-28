@@ -183,11 +183,11 @@ hr {
 
 .jumbotron .scroll-down {
     height: 80px;
-    width: 110px;
+    width: 125px;
     display: block;
     position: absolute;
     bottom: 0px;
-    right: 5%;
+    right: 3%;
     background-color: #222222;
     text-align: center;
     z-index: 6;
